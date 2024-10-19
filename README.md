@@ -1,4 +1,4 @@
-# Learning Git Commands
+# Learning Git Commands :)
 
 ## 1. Setting Up a Repository
 - **Create a new directory for the repository**
