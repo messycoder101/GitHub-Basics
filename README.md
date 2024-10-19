@@ -87,12 +87,12 @@
 ## 5. Configuring User Information
 - **Set global username**
   ```bash
-  git config --global user.name "messycoder101"
+  git config --global user.name "yourUSERNAME"
   ```
 
 - **Set global email**
   ```bash
-  git config --global user.email "anuraag.verma11@gmail.com"
+  git config --global user.email "YOUR@EMAIL"
   ```
 
 ## 6. Branching
